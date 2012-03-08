@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "ConnectionPool\Singleton.csproj", "{D897CF06-8B6E-4C5C-A6DB-C9F847A4736B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testable", "Testable\Testable.csproj", "{EA37EB4E-4AF0-4A29-B74D-0420AE628859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D897CF06-8B6E-4C5C-A6DB-C9F847A4736B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D897CF06-8B6E-4C5C-A6DB-C9F847A4736B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D897CF06-8B6E-4C5C-A6DB-C9F847A4736B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D897CF06-8B6E-4C5C-A6DB-C9F847A4736B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA37EB4E-4AF0-4A29-B74D-0420AE628859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA37EB4E-4AF0-4A29-B74D-0420AE628859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA37EB4E-4AF0-4A29-B74D-0420AE628859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA37EB4E-4AF0-4A29-B74D-0420AE628859}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
